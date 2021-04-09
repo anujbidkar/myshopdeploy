@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myshopdeploy/static/css/main.5fb3473b.chunk.css",
+    "main.js": "/myshopdeploy/static/js/main.a64174bc.chunk.js",
+    "main.js.map": "/myshopdeploy/static/js/main.a64174bc.chunk.js.map",
+    "runtime-main.js": "/myshopdeploy/static/js/runtime-main.b320eecf.js",
+    "runtime-main.js.map": "/myshopdeploy/static/js/runtime-main.b320eecf.js.map",
+    "static/js/2.c002bb62.chunk.js": "/myshopdeploy/static/js/2.c002bb62.chunk.js",
+    "static/js/2.c002bb62.chunk.js.map": "/myshopdeploy/static/js/2.c002bb62.chunk.js.map",
+    "static/js/3.485a31cc.chunk.js": "/myshopdeploy/static/js/3.485a31cc.chunk.js",
+    "static/js/3.485a31cc.chunk.js.map": "/myshopdeploy/static/js/3.485a31cc.chunk.js.map",
+    "index.html": "/myshopdeploy/index.html",
+    "static/css/main.5fb3473b.chunk.css.map": "/myshopdeploy/static/css/main.5fb3473b.chunk.css.map",
+    "static/js/2.c002bb62.chunk.js.LICENSE.txt": "/myshopdeploy/static/js/2.c002bb62.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/myshopdeploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b320eecf.js",
+    "static/js/2.c002bb62.chunk.js",
+    "static/css/main.5fb3473b.chunk.css",
+    "static/js/main.a64174bc.chunk.js"
+  ]
+}
